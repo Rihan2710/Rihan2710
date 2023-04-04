@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihan2710" alt="rihan2710" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - ⚡ Fun fact **Love to Explore the new Tech around**
 
