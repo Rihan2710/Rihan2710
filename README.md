@@ -2,11 +2,12 @@
 
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Rihan Nardekar</span></h1>
-<h3 align="center">💻 Programmer | 🌐 Developer | 📚 Lifelong Learner</h3>
+<h3 align="center">🌐 Developer | 📚 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g5dWcwMXEzb211c3lzbWZ0Zjl5emxlcnF6M21lcjQ3bnU3anNkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif"/>
 </p>
+
 
 ---
 
